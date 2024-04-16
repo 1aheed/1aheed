@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aheed Sajid
-- 👀 I’m interested in coding and mostly in WordPress
+- 👀 I’m interested in coding and mostly in AI
 - 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate with a growing and passionate team realted to WordPress!
+- 💞️ I’m looking to collaborate with a growing and passionate team!
 - 📫 Reach me at: aheedsajid@gmail.com
 
 <!---
